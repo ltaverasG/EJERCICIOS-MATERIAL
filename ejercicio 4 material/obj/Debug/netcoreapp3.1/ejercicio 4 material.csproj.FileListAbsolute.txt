@@ -1,0 +1,13 @@
+C:\Users\Joseluis\Documents\C#\EJERCICIOS-MATERIAL\ejercicio 4 material\bin\Debug\netcoreapp3.1\ejercicio 4 material.exe
+C:\Users\Joseluis\Documents\C#\EJERCICIOS-MATERIAL\ejercicio 4 material\bin\Debug\netcoreapp3.1\ejercicio 4 material.deps.json
+C:\Users\Joseluis\Documents\C#\EJERCICIOS-MATERIAL\ejercicio 4 material\bin\Debug\netcoreapp3.1\ejercicio 4 material.runtimeconfig.json
+C:\Users\Joseluis\Documents\C#\EJERCICIOS-MATERIAL\ejercicio 4 material\bin\Debug\netcoreapp3.1\ejercicio 4 material.runtimeconfig.dev.json
+C:\Users\Joseluis\Documents\C#\EJERCICIOS-MATERIAL\ejercicio 4 material\bin\Debug\netcoreapp3.1\ejercicio 4 material.dll
+C:\Users\Joseluis\Documents\C#\EJERCICIOS-MATERIAL\ejercicio 4 material\bin\Debug\netcoreapp3.1\ejercicio 4 material.pdb
+C:\Users\Joseluis\Documents\C#\EJERCICIOS-MATERIAL\ejercicio 4 material\obj\Debug\netcoreapp3.1\ejercicio 4 material.csprojAssemblyReference.cache
+C:\Users\Joseluis\Documents\C#\EJERCICIOS-MATERIAL\ejercicio 4 material\obj\Debug\netcoreapp3.1\ejercicio 4 material.csproj.CoreCompileInputs.cache
+C:\Users\Joseluis\Documents\C#\EJERCICIOS-MATERIAL\ejercicio 4 material\obj\Debug\netcoreapp3.1\ejercicio 4 material.AssemblyInfoInputs.cache
+C:\Users\Joseluis\Documents\C#\EJERCICIOS-MATERIAL\ejercicio 4 material\obj\Debug\netcoreapp3.1\ejercicio 4 material.AssemblyInfo.cs
+C:\Users\Joseluis\Documents\C#\EJERCICIOS-MATERIAL\ejercicio 4 material\obj\Debug\netcoreapp3.1\ejercicio 4 material.dll
+C:\Users\Joseluis\Documents\C#\EJERCICIOS-MATERIAL\ejercicio 4 material\obj\Debug\netcoreapp3.1\ejercicio 4 material.pdb
+C:\Users\Joseluis\Documents\C#\EJERCICIOS-MATERIAL\ejercicio 4 material\obj\Debug\netcoreapp3.1\ejercicio 4 material.genruntimeconfig.cache
